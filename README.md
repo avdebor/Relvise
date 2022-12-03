@@ -5,7 +5,7 @@ Relvisetitle is open-source and easy to modify adaptive html&css&js tamplate wit
 
 ## Demo
 
-Demo temaplate link - [**cick**](https://avdebor.github.io/Relvisetitle/)
+Demo temaplate link - [**cick**](https://avdebor.github.io/Relvise/)
 
 ## Design sources
 
