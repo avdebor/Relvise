@@ -1,6 +1,5 @@
 ![Logo](img/Relvise.png)
 
-# Relvise
 
 Relvise is open-source and easy to modify adaptive html&css&js tamplate with features like animation, cookie popup, contact form e-mail validation and many other.
 
