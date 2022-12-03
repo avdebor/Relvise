@@ -1,11 +1,11 @@
 # Relvisetitle
 
-Relvisetitle is easy to modify and read adaptive html&css&js tamplate with features like animation, cookie popup, contact form e-mail validation and many other.
+Relvisetitle is open-source and easy to modify adaptive html&css&js tamplate with features like animation, cookie popup, contact form e-mail validation and many other.
 
 
 ## Demo
 
-Demo temaplate link - [**cickm**](template.fig)
+Demo temaplate link - [**cick**](https://avdebor.github.io/Relvisetitle/)
 
 ## Design sources
 
