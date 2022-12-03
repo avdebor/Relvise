@@ -11,4 +11,4 @@ Demo temaplate link - [**cick**](https://avdebor.github.io/Relvisetitle/)
 
 In this source was used open source Relvisetitle fgma template
 
-Which is also [**included**](template.fig)
+Which is also [**included**](https://github.com/avdebor/Relvisetitle/blob/main/template.fig?raw=true)
