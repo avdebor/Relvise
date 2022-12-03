@@ -9,6 +9,6 @@ Demo temaplate link - [**cick**](https://avdebor.github.io/Relvisetitle/)
 
 ## Design sources
 
-In this source was used open source Relvisetitle fgma template
+In this source was used open source Relvise fgma template
 
 Which is also [**included**](https://github.com/avdebor/Relvisetitle/blob/main/template.fig?raw=true)
